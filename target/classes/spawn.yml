@@ -1,0 +1,8 @@
+# This is just where the spawn is set, It will automatically update the cords upon spawn set.
+# Make sure you put the correct world name though.
+
+spawn:
+  world: 'world'  # The name of the world where the spawn is located
+  x: 10.0              # X-coordinate of the spawn
+  y: 64.0              # Y-coordinate of the spawn
+  z: 10.0              # Z-coordinate of the spawn

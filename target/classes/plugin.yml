@@ -1,0 +1,8 @@
+name: SetSpawn
+version: '1.0'
+main: xyz.kiradev.setspawn.SetSpawn
+commands:
+  setspawn:
+    description: Sets server spawn.
+  spawn:
+    description: Teleports you to spawn

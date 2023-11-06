@@ -1,0 +1,10 @@
+# Vifez spawn plugin
+# I got bored and I couldn't find a good spawn plugin
+# So I created this plugin lol do what you want with it
+
+messages:
+  set_spawn_success: "&aSpawn point set!"
+  set_spawn_op_required: "&cYou need to be OP to set the spawn point."
+  spawn_teleport: "&eTeleported to spawn!"
+  spawn_not_set: "&cSpawn point is not set. Please ask an admin to set it."
+  spawn_random_teleport: "&eYou've been teleported to a random location."
