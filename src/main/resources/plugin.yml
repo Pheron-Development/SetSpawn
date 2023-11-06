@@ -3,6 +3,6 @@ version: '${project.version}'
 main: xyz.kiradev.setspawn.SetSpawn
 commands:
   setspawn:
-    description: Sets server spawn.
+    description: sets spawn
   spawn:
-    description: Teleports you to spawn
+    description: fuck you think it does
